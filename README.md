@@ -1,5 +1,8 @@
 # 🏋️‍♂️ Sistema de Gerenciamento de Academia
-
+Equipe:
+Guilherme Monteiro
+Rafael
+Paulo augusto
 ----
 
 ## 🧩 1. Visão Geral
@@ -40,3 +43,4 @@ A aplicação foi idealizada para **automatizar e simplificar a gestão de acade
 ## 🐳 3. Containerização (Docker)
 
 O projeto é **totalmente containerizado**, garantindo portabilidade e facilidade no setup do ambiente.
+
