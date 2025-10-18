@@ -1,8 +1,8 @@
 # 🏋️‍♂️ Sistema de Gerenciamento de Academia
-Equipe:
-Guilherme Monteiro
-Rafael
-Paulo augusto
+## Equipe:
+- Guilherme Monteiro
+- Rafael
+- Paulo augusto
 ----
 
 ## 🧩 1. Visão Geral
